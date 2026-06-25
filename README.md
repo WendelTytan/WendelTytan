@@ -19,7 +19,7 @@
 
 # 🇧🇷 Português
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Mim </p>
 
 Desenvolvedor fullstack, com foco no desenvolvimento de automações, microsserviços e soluções.
 
@@ -36,7 +36,7 @@ Atualmente concentro meus estudos e projetos em:
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias </p>
 
 ### Backend
 <p align="center">
@@ -75,7 +75,7 @@ Atualmente concentro meus estudos e projetos em:
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque </p>
 
 <br>
 
@@ -126,7 +126,7 @@ Sistema voltado para criação e gerenciamento de cartas, expansão futura para 
 
 ---
 
-## 📜 Certificações e Badges
+## 📜 Certificações e Badges </p>
 
 🏅 Oracle Cloud Infrastructure Foundations <br>
 🏅 Oracle Cloud Infrastructure AI Foundations <br>
@@ -141,7 +141,7 @@ Sistema voltado para criação e gerenciamento de cartas, expansão futura para 
 
 ---
 
-## 📫 Contato
+## 📫 Contato </p>
 
 ### ☕ Quer me apoiar?
 <div align="center">
@@ -177,7 +177,7 @@ Sistema voltado para criação e gerenciamento de cartas, expansão futura para 
 
 # 🇺🇸 English
 
-## 🚀 About Me
+## 🚀 About Me </p>
 
 Fullstack developer, focused on building automations, microservices, and software solutions.
 
@@ -194,7 +194,7 @@ Currently, I am focusing my studies and projects on:
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies </p>
 
 ### Backend
 <p align="center">
@@ -233,7 +233,7 @@ Currently, I am focusing my studies and projects on:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects </p>
 
 <br>
 
@@ -284,7 +284,7 @@ System focused on creating and managing cards, with a planned future expansion f
 
 ---
 
-## 📜 Certifications and Badges
+## 📜 Certifications and Badges </p>
 
 🏅 Oracle Cloud Infrastructure Foundations <br>
 🏅 Oracle Cloud Infrastructure AI Foundations <br>
@@ -299,7 +299,7 @@ System focused on creating and managing cards, with a planned future expansion f
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats </p>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=WendelTytan&show_icons=true&theme=tokyonight"/>
@@ -308,7 +308,7 @@ System focused on creating and managing cards, with a planned future expansion f
 
 ---
 
-## 📫 Contact
+## 📫 Contact </p>
 
 ### ☕ Want to support me?
 <div align="center">
