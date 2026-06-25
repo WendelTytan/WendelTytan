@@ -4,7 +4,7 @@
 
 ### Software Developer | Infrastructure & Networking Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Python+%7C+JavaScript;Infrastructure+and+Networking;Cloud+and+Automation;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=FullStack+Developer;Java+%7C+Python+%7C+JavaScript;Infrastructure+and+Networking;Cloud+and+Automation;Always+Learning+Something+New" />
 
 <br><br>
 
