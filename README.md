@@ -165,7 +165,7 @@ Sistema voltado para criação e gerenciamento de cartas, expansão futura para 
 
 <div align="center">
   <h3>⚡ "Transformando ideias em software e infraestrutura confiável."</h3>
-  <a href="./Seu_Curriculo.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Baixar_Currículo-2B3137?style=for-the-badge" target="_blank"></a>
+  <a href="./Curriculo_Completo.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Baixar_Currículo-2B3137?style=for-the-badge" target="_blank"></a>
 </div>
 
 <br><br>
@@ -332,5 +332,5 @@ System focused on creating and managing cards, with a planned future expansion f
 
 <div align="center">
   <h3>⚡ "Transforming ideas into software and reliable infrastructure."</h3>
-  <a href="./Seu_Curriculo.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Download_Resume-2B3137?style=for-the-badge" target="_blank"></a>
+  <a href="./Curriculo_Completo.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Download_Resume-2B3137?style=for-the-badge" target="_blank"></a>
 </div>
